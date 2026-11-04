@@ -4,23 +4,18 @@
 
 **Um alternador de temas simples e interativo desenvolvido com HTML, CSS e JavaScript.**
 
----
-
-## 🌐 Live Demo | Demonstração
-
-*Coming soon | Em breve.*
-
----
 
 ## 📸 Screenshots | Capturas de tela
 
 ### Light Mode | Tema Claro
 
-![Light Mode](screenshots/light-mode.png)
+<img width="1009" height="644" alt="lightMode" src="https://github.com/user-attachments/assets/10a5b699-339c-4523-a694-9477a43ccede" />
+
 
 ### Dark Mode | Tema Escuro
 
-![Dark Mode](screenshots/dark-mode.png)
+<img width="1008" height="639" alt="darkMode" src="https://github.com/user-attachments/assets/36be0659-1260-4e41-b3c4-cd645276ae21" />
+
 
 ---
 
