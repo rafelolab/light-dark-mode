@@ -1,0 +1,94 @@
+:root{
+    --bg-day: #eaeeef;
+    --bg-night: #070707;
+    --sun-color: #ffd700;
+    --moon-color: #f5f3ce;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: var(--bg-day);
+    transition: background-color 0.5s ease;
+}
+
+body.dark{
+    background-color: var(--bg-night);
+}
+
+.scene {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#theme-toggle{
+    display: none;
+}
+
+.toggle-slot{
+    position: relative;
+    width: 140px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: #4682b4;
+    overflow: hidden;
+    box-shadow: inset 0 10px 15px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.5s ease;
+}
+
+.sun-moon{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--sun-color);
+    box-shadow: 0 0 20px var(--sun-color);
+    transition:  0.5s ease;
+}
+
+#theme-toggle:checked + .toggle-slot{
+    background-color: #1a1a1a;
+}
+
+#theme-toggle:checked + .toggle-slot .sun-moon{
+    left: 80px;
+    background-color: var(--moon-color);
+     box-shadow: 0 0 20px var(--moon-color);
+}
+
+.theme-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: auto;
+    height: 100px;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.theme-text h2{
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;
+    color: var(--bg-night);
+    margin: 0;
+    transition: color 0.5s ease;
+}
+
+.theme-text p{
+    font-family: 'Arial', sans-serif;
+    font-size: 0.8rem;
+    color: var(--bg-night);
+    transition: color 0.5s ease;
+}
+
+.text.light{
+    color: var(--bg-day);
+}
