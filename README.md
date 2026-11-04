@@ -106,7 +106,7 @@ light-dark-mode/
 2. Abra a pasta do projeto.
 3. Abra o arquivo `index.html` no navegador.
 
----
+
 
 ## 🎯 Learning Goals | Objetivos de Aprendizado
 
@@ -132,7 +132,7 @@ Com este projeto, pratiquei:
 - Organização e alinhamento de elementos com Flexbox.
 - Utilização de transições com CSS.
 
----
+
 
 ## 👨‍💻 Author | Autor
 
