@@ -17,7 +17,6 @@
 <img width="1008" height="639" alt="darkMode" src="https://github.com/user-attachments/assets/36be0659-1260-4e41-b3c4-cd645276ae21" />
 
 
----
 
 ## 📌 About the Project | Sobre o Projeto
 
@@ -33,7 +32,7 @@ Este projeto é uma interface web simples que permite alternar entre os temas cl
 
 Foi desenvolvido como um projeto de aprendizado para praticar fundamentos de JavaScript, manipulação do DOM e estilização com CSS.
 
----
+
 
 ## ✨ Features | Funcionalidades
 
@@ -52,7 +51,7 @@ Foi desenvolvido como um projeto de aprendizado para praticar fundamentos de Jav
 - 🎛️ **Interactive toggle switch** – Allows users to switch between themes.
   - **Botão interativo** – Permite alternar entre os temas.
 
----
+
 
 ## 🛠️ Technologies | Tecnologias
 
@@ -65,7 +64,7 @@ Foi desenvolvido como um projeto de aprendizado para praticar fundamentos de Jav
 - **JavaScript** – Theme switching, event handling, and DOM manipulation.
   - **JavaScript** – Alternância de temas, tratamento de eventos e manipulação do DOM.
 
----
+
 
 ## 📂 Project Structure | Estrutura do Projeto
 
@@ -81,7 +80,7 @@ light-dark-mode/
 └── README.md
 ```
 
----
+
 
 ## 🚀 How to Run | Como executar
 
