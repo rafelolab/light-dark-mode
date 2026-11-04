@@ -133,9 +133,6 @@ Com este projeto, pratiquei:
 - Utilização de transições com CSS.
 
 
-
-## 👨‍💻 Author | Autor
-
-Developed by **Rafael** | Desenvolvido por **Rafael**
+Developed by **Rafael Feitosa** 
 
 [GitHub](https://github.com/rafelolab)
