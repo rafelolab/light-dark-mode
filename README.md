@@ -5,7 +5,7 @@
 **Um alternador de temas simples e interativo desenvolvido com HTML, CSS e JavaScript.**
 
 
-## 📸 Screenshots | Capturas de tela
+## Screenshots | Capturas de tela
 
 ### Light Mode | Tema Claro
 
@@ -18,7 +18,7 @@
 
 
 
-## 📌 About the Project | Sobre o Projeto
+##  About the Project | Sobre o Projeto
 
 **EN**
 
@@ -34,26 +34,26 @@ Foi desenvolvido como um projeto de aprendizado para praticar fundamentos de Jav
 
 
 
-## ✨ Features | Funcionalidades
+##  Features | Funcionalidades
 
-- 🌞 **Light mode** – Switches to a light theme.
+-  **Light mode** – Switches to a light theme.
   - **Tema claro** – Alterna a interface para o tema claro.
 
-- 🌙 **Dark mode** – Switches to a dark theme.
+- **Dark mode** – Switches to a dark theme.
   - **Tema escuro** – Alterna a interface para o tema escuro.
 
-- 🎨 **Smooth transitions** – Provides smooth color transitions.
+-  **Smooth transitions** – Provides smooth color transitions.
   - **Transições suaves** – Apresenta transições suaves entre as cores.
 
-- 📝 **Dynamic text updates** – Updates the displayed text according to the selected theme.
+-  **Dynamic text updates** – Updates the displayed text according to the selected theme.
   - **Atualização dinâmica de texto** – Atualiza o texto exibido de acordo com o tema selecionado.
 
-- 🎛️ **Interactive toggle switch** – Allows users to switch between themes.
+- **Interactive toggle switch** – Allows users to switch between themes.
   - **Botão interativo** – Permite alternar entre os temas.
 
 
 
-## 🛠️ Technologies | Tecnologias
+##  Technologies | Tecnologias
 
 - **HTML5** – Page structure.
   - **HTML5** – Estrutura da página.
@@ -66,7 +66,7 @@ Foi desenvolvido como um projeto de aprendizado para praticar fundamentos de Jav
 
 
 
-## 📂 Project Structure | Estrutura do Projeto
+##  Project Structure | Estrutura do Projeto
 
 ```text
 light-dark-mode/
@@ -82,7 +82,7 @@ light-dark-mode/
 
 
 
-## 🚀 How to Run | Como executar
+## How to Run | Como executar
 
 **EN**
 
@@ -108,7 +108,7 @@ light-dark-mode/
 
 
 
-## 🎯 Learning Goals | Objetivos de Aprendizado
+##  Learning Goals | Objetivos de Aprendizado
 
 **EN**
 
